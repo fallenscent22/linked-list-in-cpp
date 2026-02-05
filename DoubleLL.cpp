@@ -17,29 +17,6 @@ public:
         prev = nullptr;
     }
 };
-Node* insertBeforHead(){
-
-}
-
-Node* insertAfterHead() {
-
-}
-
-Node* insertAfterTail() {
-
-}
-
-Node* insertBeforeTail() {
-
-}
-
-Node* insertAtKthNode(){
-
-}
-
-Node* insertAfterGivenValue() {
-
-}
 void printDLL(Node *head)
 {
     Node *temp = head;
